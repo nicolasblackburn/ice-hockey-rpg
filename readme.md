@@ -5,7 +5,7 @@
 ### Concept
 The planet Earth has been invaded by alien races trying to enslave humans and fighting each other to gain control of Earth and its precious resources. The human elders of the planet meet together and elaborate a clever scheme: they will propose to the aliens that the fate of the planet be decided by an intergalactic ice hockey tournament. The aliens, highly civilised beings despite their belligerent war-waging habits, would have no choice to accept. The elders make their proposal to the aliens who accept the deal.
 
-You are *Hero*, the captain of team human and your goal is to win the intergalactic tournament to save your race and your planet from the evil aliens. You will have to fight the alien races teams in ice hockey matches over several landscape accross the galaxy. Manage, train and level up your team to prepare for the ultimate match that will decide the fate of humanity. Explore strange alien places and cities to discover and buy new equipment to help you in your quest.
+You are *Hero*, the captain of team human and your goal is to win the intergalactic tournament to save your race and your planet from the evil aliens. You will have to fight the alien teams in ice hockey faceoffs over several landscape accross the galaxy. Manage, train and level up your team to prepare for the ultimate challenge that will decide the fate of humanity. Explore strange alien places and cities to discover and buy new equipment to help you in your quest.
 
 ### Genre
 RPG / Strategy / Sim
@@ -23,7 +23,7 @@ All age players playing on their phone or desktop
 - Exchange players
 - Train your team and level-up up to gain new skills
 - Discover players with affinities to reveal new skills
-- Play hockey matches as rpg-like battles
+- Play hockey faceoffs as rpg-like battles
 - During the battles, you can interact with the props around you
 - Players can reach a temporary state of momentum where they can use new skills
 - Players with momentum in the same team can combine to make new skills available
